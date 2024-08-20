@@ -27,8 +27,8 @@
 11. Ether Updated Price
 12. Ether Total Supply
 
-# Review Of Project
+# Project demo video
 
-### Project demo video:
+### Ethersan Clone Project:
 
 ![Genesis Project](./public/review/Review.gif)
