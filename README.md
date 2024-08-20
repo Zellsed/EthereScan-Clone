@@ -29,6 +29,6 @@
 
 # Review Of Project
 
-![Genesis Project](./public/review/Review.gif)
-
 <center><figcaption>Ethersan Clone Project</figcaption></center>
+
+![Genesis Project](./public/review/Review.gif)
