@@ -1,0 +1,81 @@
+.block {
+  width: 80%;
+  margin: 0 auto;
+  margin-block: 2rem;
+}
+
+.box__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box__header h3 {
+  color: #fff;
+  background-color: #1f1a36;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.box__header p {
+  background-color: #1f1a36;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-weight: 700;
+}
+
+.blockBtn {
+  background-color: #1f1a36;
+  display: flex;
+  gap: 1.5rem;
+  justify-content: start;
+  margin-left: -0.5rem;
+  border-bottom: 1px solid #9a02ac;
+  padding-bottom: 0.5rem;
+}
+
+.blockBtn button {
+  background-color: transparent;
+  border: 0;
+  font-size: 1rem;
+  color: #fff;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.blockTable {
+  background-color: #1f1a36;
+  margin-block: 2rem;
+  color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+}
+
+.dataRow {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  align-items: center;
+  font-size: 12px;
+  overflow: hidden;
+}
+
+.color {
+  color: #9a02ac;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+@media screen and (max-width: 45em) {
+  .block {
+    width: 95%;
+  }
+
+  .box__header p {
+    display: none;
+  }
+
+  .dataRow {
+    grid-template-columns: 2fr 4fr;
+  }
+}

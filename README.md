@@ -1,117 +1,34 @@
 # EtherScan Clone Web3
 
-Build & Deploy Full Stack Etherscan Clone For Any Blockchain 2024 | Beginner Blockchain Web3 Project
+- Modern web 3.0 Etherscan clone projects cover, how frontend applications can communicate with Ethereum blockchain and fetch real-time ethereum data
 
-Are you ready to dive into the world of blockchain development? In this step-by-step tutorial, we'll guide you through building and deploying your very own full-stack Etherscan clone, tailored for any blockchain of your choice. Whether you're a beginner looking to explore blockchain technology or an experienced developer wanting to enhance your Web3 skills, this project is perfect for you.
+# Project Overview
 
-## Project Overview
+## Technology used in the Application
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/Etherscan-clone.jpg)
+1. Next Js
+2. React js
+3. EthereScan API
+4. Infura Provider (connecting With the main net)
+5. Ether Js
 
-## Instruction
+## Features of the Web3.0 Application
 
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
+1. Block details,
+2. Transactions History
+3. Internal Transaction
+4. Transactions by Hash
+5. Block Range
+6. Block Mined By Address
+7. Token Transfer (ERC20, ERC21, ERC1155)
+8. Search Account Address Data
+9. Single Transaction
+10. Contract data
+11. Ether Updated Price
+12. Ether Total Supply
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/etherescan-clone-with-next-js-project-source-code)
+# Review Of Project
 
-#### Setup Video
+![Genesis Project](./public/review/Review.gif)
 
-- [Final Code Setup video](https://youtu.be/KC4HK472V68?si=QaTljqUDk9Nse4XQ)
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
-#### Install Vs Code Editor
-
-```https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
-
-#### NodeJs & NPM Version
-
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1
-  NPM: 8.19.2
-```
-
-#### Clone Starter File
-
-```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-  GET: Project Starter File Download
-```
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
-
-## Final Code Instruction
-
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
-
-#### Setup Video
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
-#### Final Source Code
-
-```https://www.theblockchaincoders.com/SourceCode
-  Download the Final Source Code
-```
-
-#### Install Vs Code Editor
-
-```https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
-
-#### NodeJs & NPM Version
-
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1
-  NPM: 8.19.2
-```
-
-#### EtherScan
-
-```https://www.etherscan.io/
-  ETHERSCAN API KEY
-```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
-
-#### PACKAGE.JSON
-
-```https://www.etherscan.io/
- {
-  "name": "etherscan_clone",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev ",
-    "build": "next build && next export",
-    "start": "next start ",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "axios": "^0.27.2",
-    "ethers": "^5.6.9",
-    "get-eth-price": "^1.0.0",
-    "next": "12.2.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-icons": "^4.4.0",
-    "web3modal": "^1.9.8"
-  }
-}
-```
+<center><figcaption>Ethersan Clone Project</figcaption></center>
