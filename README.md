@@ -9,7 +9,7 @@
 1. Next Js
 2. React js
 3. EthereScan API
-4. Infura Provider (connecting With the main net)
+4. Alchemy Provider (connecting With the main net)
 5. Ether Js
 
 ## Features of the Web3.0 Application
