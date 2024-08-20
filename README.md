@@ -29,6 +29,6 @@
 
 # Review Of Project
 
-### Ethersan Clone Project:
+### Project demo video:
 
 ![Genesis Project](./public/review/Review.gif)
