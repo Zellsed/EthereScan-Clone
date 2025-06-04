@@ -1,17 +1,5 @@
 # EtherScan Clone Web3
 
-- Modern web 3.0 Etherscan clone projects cover, how frontend applications can communicate with Ethereum blockchain and fetch real-time ethereum data
-
-# Project Overview
-
-## Technology used in the Application
-
-1. Next Js
-2. React js
-3. EthereScan API
-4. Alchemy Provider (connecting With the main net)
-5. Ether Js
-
 ## Features of the Web3.0 Application
 
 1. Block details,
